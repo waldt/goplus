@@ -1,6 +1,6 @@
 # Contributing to GO:Plus
 
-We'd love for you to help us improve GO:Plus! Here's how you can contribute:
+Want to help improve GO:Plus?  Here's how you can get involved:
 
 ## Reporting Issues
 
@@ -18,10 +18,6 @@ We'd love for you to help us improve GO:Plus! Here's how you can contribute:
 2. Create a descriptive branch name (e.g., 'fix-layers-command')
 3. Make your changes, ideally with accompanying tests.
 4. Submit a pull request with a clear explanation of the changes made.
-
-## Code Style
-
-* We strive to maintain a consistent code style. [Add specifics about your preferred formatting/style guide if applicable]
 
 ## Getting Help
 

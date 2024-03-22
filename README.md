@@ -69,7 +69,8 @@ Empirical evidence suggests a near-identical synth engine to the Roland Juno-DS 
 
 **Important Notes:**
 
-- **Patch numbers** can be found in Rolands's *Parameter Guide* for Juno DS or [here](GO-sounds.md).
+- **Patch exploration:** Want an easier way to browse the available sounds before diving into customization? Check out the [TouchOSC templates](./touchosc/README.md) for a convenient patch selection interface.
+- **Find patch numbers:** See Roland's *Parameter Guide* for Juno DS or the project's [GO-sounds.md](./GO-sounds.md) file.
 - **Case sensitivity:** Key notes (e.g., C4, G#5) must be provided in the correct case.
 - **Value Ranges:**
   - MSB, LSB: 0-127
